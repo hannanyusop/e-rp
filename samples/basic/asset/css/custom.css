@@ -1,0 +1,76 @@
+
+.body{
+	margin: 20px;
+	margin-top: 30px;
+	margin-left: 2em;
+	 font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-container{
+	text-align: center;
+}
+
+.ums-logo{
+	 max-height: 40px;
+	 margin-top: 2em;
+}
+
+.main-page-title{
+	margin-top : 3em;
+	text-align: center;
+}
+
+h3.title{
+	text-transform: uppercase;
+	line-height: 1.2;
+}
+
+h3.title-ceter{
+	text-transform: uppercase;
+	line-height: 1.2;
+	text-align: center;
+}
+
+.body-info {
+	margin-left: 2em;
+	width: 60%;
+}
+
+.info-subtitle{
+	margin-top: 20px; 
+	margin-left: 4em;
+	 text-decoration: underline;
+	 font-size: 8px;
+	font-weight: 800;
+}
+
+.info-title{
+	text-align:left;
+	font-size: 8px;
+	font-weight: 800;
+}
+
+.info-data{
+	float:right;
+	font-weight: 300;
+}
+
+table {
+	border-collapse: collapse;
+}
+table th, td {
+	font-size: 8px;
+	width: 80%;
+	border: 1px solid black;
+	text-align: left;
+
+}
+
+.item {
+	 min-width: 10%;
+    width: 20%;
+}
+
+.mt-10{
+	margin-top: 10px; 
+}
